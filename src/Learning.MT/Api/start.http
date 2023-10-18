@@ -1,0 +1,8 @@
+### Kick it Off (basic steps)
+POST http://localhost:3000/start/1
+
+### Kick it off (optional steps)
+POST http://localhost:3000/start/2
+
+### Kick it off (compensation)
+POST http://localhost:3000/start/3
